@@ -1,6 +1,6 @@
 # Build-a-Scalable-in-app-notification-system.
 
-##The following is expected as part of the solution
+## The following is expected as part of the solution
 1. Database type and database schema design (database can be anything from mysql to
 mongodb to firebase. It is upto your choice) and reason for choosing this database
 2. API list and explanation of each api
