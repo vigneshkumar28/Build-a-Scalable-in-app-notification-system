@@ -22,10 +22,14 @@ mongodb to firebase. It is upto your choice) and reason for choosing this databa
       i am using IBM DB2 for storing the data from the user and accessing through the Node-RED
       
  ## IBM DB2 screen shot
-            ![picture1](https://github.com/vigneshkumar28/Build-a-Scalable-in-app-notification-system./blob/master/IBM%20DB2%20schema%20screenshot.PNG)
+  <p align="center">
+  <img width="460" height="300" src="https://github.com/vigneshkumar28/Build-a-Scalable-in-app-notification-system./blob/master/IBM%20DB2%20schema%20screenshot.PNG">
+  </p>
+
+![picture1](https://github.com/vigneshkumar28/Build-a-Scalable-in-app-notification-system./blob/master/IBM%20DB2%20schema%20screenshot.PNG)
             
  ## Node-RED Flow screen shot           
-            ![picture2](https://github.com/vigneshkumar28/Build-a-Scalable-in-app-notification-system./blob/master/Node-red%20flow%20screenshot.jpg)
+ ![picture2](https://github.com/vigneshkumar28/Build-a-Scalable-in-app-notification-system./blob/master/Node-red%20flow%20screenshot.jpg)
             
  ## New user and Login UI screen shot         
             ![alt text](https://github.com/vigneshkumar28/Build-a-Scalable-in-app-notification-system./blob/master/user%20interface%20for%20New%20user%20and%20Login%20screen%20shot.jpg)
