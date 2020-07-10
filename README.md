@@ -14,3 +14,9 @@ mongodb to firebase. It is upto your choice) and reason for choosing this databa
 
 
 ## Click here to go website---->  [a link](http://vignesh.2bz.in/sample_notification/)
+
+
+1. Database type and database schema design (database can be anything from mysql to
+mongodb to firebase. It is upto your choice) and reason for choosing this database
+
+      i am using IBM DB2 for storing the data from the user and accessing through the Node-RED 
